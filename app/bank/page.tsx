@@ -18,7 +18,7 @@ export default function BankPage() {
         </p>
       </div>
       <p role="note" className="rounded-md border border-amber-300 bg-amber-50 px-3 py-2 text-sm text-amber-900">
-        <strong>Draft questions: not yet lawyer-reviewed.</strong> Written from the Code of Professional Responsibility and Accountability (checked against the owner's reviewer), the 2004 Rules on Notarial Practice, Rule 138 and Supreme Court decisions, with every quoted provision checked against LawPhil. Check the
+        <strong>Draft questions: not yet lawyer-reviewed.</strong> Written from the Code of Professional Responsibility and Accountability (checked against the owner&apos;s reviewer), the 2004 Rules on Notarial Practice, Rule 138 and Supreme Court decisions, with every quoted provision checked against LawPhil. Check the
         official source before relying on an answer.
       </p>
       <BankDrill outline={OUTLINE} />
